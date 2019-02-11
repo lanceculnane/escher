@@ -35,3 +35,6 @@ I'd rather not give it any rules... stay tuned
 ![](results1000.png)
 
 For now, I just think it is funny that you can actually copy and paste this rediculous, messy, nonsensical txt made from this Escher program and run it and it works! It doesn't print anything or do anything, but it doesn't fail either, which in a way, makes it a better programmer than me. I deal with errors all the time, but in about 1 second, it was able to write error-free code!
+
+# Disclaimer
+I am going to keep this version with only 1000 rounds allowed (and test 'infinite mode' on my own). You should ONLY put it in 'infinite mode' (turning it into a "while true:" loop if you are a programmer and know what you are doing. For now, it writes nonsense, but it is still running pythons 'exec' command to check if what escher made is executable or not. It is possible for it to write a program which deletes everything on your computer, leaks passwords etc. This project is for curiosity purposes at this point, and a bit tongue-in-cheek (I don't have much expectation for it) but it should still be treated with care and respect. Push ctrl-z and kill it while it is running if you suspect something weird happening!
