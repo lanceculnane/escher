@@ -7,7 +7,7 @@ https://upload.wikimedia.org/wikipedia/en/b/ba/DrawingHands.jpg
 ![](https://upload.wikimedia.org/wikipedia/en/b/ba/DrawingHands.jpg)
 
 # Goal
-1) To find out: Can a program write itself completely unsupervised?
+1) To find out: Can a program write itself completely unsupervised? If so, what will it make?
 2) Give me an excuse to add more to github
 
 # Initial Setup
