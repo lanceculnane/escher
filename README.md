@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Drawing_Hands
 
 https://upload.wikimedia.org/wikipedia/en/b/ba/DrawingHands.jpg
 
+![](https://upload.wikimedia.org/wikipedia/en/b/ba/DrawingHands.jpg)
+
 # Goal
 1) To find out: Can a program write itself completely unsupervised?
 2) Give me an excuse to add more to github
