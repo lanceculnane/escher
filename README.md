@@ -33,3 +33,5 @@ I'm wondering if I should not allow it to use "#" to help encouragage it to make
 I'd rather not give it any rules... stay tuned
 
 ![](results1000.png)
+
+For now, I just think it is funny that you can actually copy and paste this rediculous, messy, nonsensical txt made from this Escher program and run it and it works! It doesn't print anything or do anything, but it doesn't fail either, which in a way, makes it a better programmer than me. I deal with errors all the time, but in about 1 second, it was able to write error-free code!
