@@ -20,3 +20,12 @@ I use python packages "random" and to randomly grab characters from the package 
 4) repeat
 
 First, I set it up to go through 1000 cycles. One could also change it to be a 'while loop' which infinitely adds onto the program
+
+## Initial Results
+After 1000 tries, all it did was make a program that was almost all "commented out" with the pound symbol, something many coders learn on their first day of coding. There are thousands of commented out (non-functioning) characters except for the number 8 and the number .8. 
+
+This is pretty interesting.
+But also... not really. Very sloppy coding mister! ... and it doesn't do anything except pass 8 and .8...
+I'm wondering if I should not allow it to use "#" to help encouragage it to make something which actually does something, and make it easier for me to figure out what it is doing...
+
+I'd rather not give it any rules... stay tuned
