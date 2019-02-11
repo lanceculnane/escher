@@ -31,3 +31,5 @@ But also... not really. Very sloppy coding mister! ... and it doesn't do anythin
 I'm wondering if I should not allow it to use "#" to help encouragage it to make something which actually does something, and make it easier for me to figure out what it is doing...
 
 I'd rather not give it any rules... stay tuned
+
+![](results1000.png)
